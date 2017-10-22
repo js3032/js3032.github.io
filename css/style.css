@@ -114,7 +114,7 @@ a {
 }
 
 .about-text {
-    margin: auto;
+    margin: 20px auto 40px;
     max-width: 800px;
     font-size: 1.1em;
 }
